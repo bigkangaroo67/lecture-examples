@@ -11,7 +11,7 @@ public class Chat {
         messages.add(msg);
     }
 
-    String name() {
+    String getName() {
         return name;
     }
 }
